@@ -2,8 +2,8 @@
 
 Проект по анализу вакансий на HH с упором на вакансии по DataScience.
 
- * <a hreh="">Ноутбук с решением</a>
- * <a hreh="">Список модулей</a>
+ * <a hreh="https://github.com/esta1d/SF-DS-practice/blob/main/PROJECT/PROJECT-2/PROJECT-2.%20Анализ%20вакансий%20из%20HeadHunter.ipynb">Ноутбук с решением</a>
+ * <a hreh="https://github.com/esta1d/SF-DS-practice/blob/main/PROJECT/PROJECT-2/req.txt">Список модулей</a>
 
 Приобретены навыки работы с Postgre-SQL.
 
