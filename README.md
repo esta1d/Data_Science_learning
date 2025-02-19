@@ -21,4 +21,9 @@
 
 ## Портфолио навыков:
 
-* Моя первая работа [Анализ резюме на HH]('https://github.com/esta1d/SF-DS-practice/blob/main/PROJECT/PROJECT-1/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter.ipynb')
+* [Анализ резюме на HH]('https://github.com/esta1d/SF-DS-practice/blob/main/PROJECT/PROJECT-1/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter.ipynb')
+
+
+
+
+* PL/SQL https://github.com/esta1d/SF-DS-practice/blob/main/SQL/primer.sql
