@@ -21,9 +21,8 @@
 
 ## Портфолио навыков:
 
-* [Анализ резюме на HH]('https://github.com/esta1d/SF-DS-practice/blob/main/PROJECT/PROJECT-1/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter.ipynb')
-
-
-
-
-* PL/SQL https://github.com/esta1d/SF-DS-practice/blob/main/SQL/primer.sql
+* Моя перва работа [Анализ резюме на HH](https://github.com/esta1d/SF-DS-practice/blob/main/PROJECT/PROJECT-1/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter.ipynb)
+* Моя первая работа с SQL [Анализ вакансий из HeadHunter](https://github.com/esta1d/SF-DS-practice/blob/main/PROJECT/PROJECT-2/PROJECT-2.%20Анализ%20вакансий%20из%20HeadHunter.ipynb)
+* Работа по последовательному анализу данных и подготовки их для модели машинного обучения[Gредсказания рейтинга отелей](https://github.com/esta1d/SF-DS-practice/blob/main/PROJECT/PROJECT-3/Project_3%20Rating%20prediction.ipynb)
+* Работа с ML. Улучшение метрик [Ноутбук с решением](https://github.com/esta1d/SF-DS-practice/blob/main/PROJECT/PROJECT-4/Project_4_ML.ipynb)
+* За год работы с SQL прокчал скилл до уровня [PL/SQL](https://github.com/esta1d/SF-DS-practice/blob/main/SQL/primer.sql)
