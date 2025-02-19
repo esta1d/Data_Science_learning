@@ -19,10 +19,13 @@
 
 * Владею навыками вертски и бекенда. `HTML`, `CSS`, `JS`, `PHP`. Во время работы в компании "КонсультантПлюс" за доп оплату занимался весткой сайдя для их партера. Дизайн не мой! Вестал по макету с FIGMA  https://buhldnr.ru/
 
+* Очень часто использую нейронные сети. В последнее время ползуюсь GigaChat, нравиться скорость и качество работы! 
+
 ## Портфолио навыков:
 
 * Моя перва работа [Анализ резюме на HH](https://github.com/esta1d/SF-DS-practice/blob/main/PROJECT/PROJECT-1/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter.ipynb)
 * Моя первая работа с SQL [Анализ вакансий из HeadHunter](https://github.com/esta1d/SF-DS-practice/blob/main/PROJECT/PROJECT-2/PROJECT-2.%20Анализ%20вакансий%20из%20HeadHunter.ipynb)
-* Работа по последовательному анализу данных и подготовки их для модели машинного обучения[Gредсказания рейтинга отелей](https://github.com/esta1d/SF-DS-practice/blob/main/PROJECT/PROJECT-3/Project_3%20Rating%20prediction.ipynb)
+* Работа по последовательному анализу данных и подготовки их для модели машинного обучения [Предсказания рейтинга отелей](https://github.com/esta1d/SF-DS-practice/blob/main/PROJECT/PROJECT-3/Project_3%20Rating%20prediction.ipynb)
 * Работа с ML. Улучшение метрик [Ноутбук с решением](https://github.com/esta1d/SF-DS-practice/blob/main/PROJECT/PROJECT-4/Project_4_ML.ipynb)
-* За год работы с SQL прокчал скилл до уровня [PL/SQL](https://github.com/esta1d/SF-DS-practice/blob/main/SQL/primer.sql)
+* За год работы с SQL (PL/SQL) прокчал скилл до уровня [PL/SQL](https://github.com/esta1d/SF-DS-practice/blob/main/SQL/primer.sql)
+* Еще ондна работа по анализу данных [ИССЛЕДОВАНИЕ ДАННЫХ HR-АГЕНТСТВА](https://github.com/esta1d/SF-DS-practice/blob/main/block-3/HomeWork/Практика%20data_HR.ipynb)
