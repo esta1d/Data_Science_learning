@@ -29,3 +29,10 @@
 * Работа с ML. Улучшение метрик [Ноутбук с решением](https://github.com/esta1d/SF-DS-practice/blob/main/PROJECT/PROJECT-4/Project_4_ML.ipynb)
 * За год работы с SQL (PL/SQL) прокчал скилл до уровня [PL/SQL](https://github.com/esta1d/SF-DS-practice/blob/main/SQL/primer.sql)
 * Еще ондна работа по анализу данных [ИССЛЕДОВАНИЕ ДАННЫХ HR-АГЕНТСТВА](https://github.com/esta1d/SF-DS-practice/blob/main/block-3/HomeWork/Практика%20data_HR.ipynb)
+
+## Если есть дополнительный вопросы
+То готов ответить на них и пообщаться лично
+С уважением 
+Ожерельев Александр Александрович
+https://t.me/esta1d
++79512626267
