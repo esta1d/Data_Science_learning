@@ -27,6 +27,7 @@
 * Моя первая работа с SQL [Анализ вакансий из HeadHunter](https://github.com/esta1d/SF-DS-practice/blob/main/PROJECT/PROJECT-2/PROJECT-2.%20Анализ%20вакансий%20из%20HeadHunter.ipynb)
 * Работа по последовательному анализу данных и подготовки их для модели машинного обучения [Предсказания рейтинга отелей](https://github.com/esta1d/SF-DS-practice/blob/main/PROJECT/PROJECT-3/Project_3%20Rating%20prediction.ipynb)
 * Работа с ML. Улучшение метрик [Ноутбук с решением](https://github.com/esta1d/SF-DS-practice/blob/main/PROJECT/PROJECT-4/Project_4_ML.ipynb)
+* SQL [Тут](https://github.com/esta1d/SF-DS-practice/tree/main/SQL)
 * Еще ондна работа по анализу данных [ИССЛЕДОВАНИЕ ДАННЫХ HR-АГЕНТСТВА](https://github.com/esta1d/SF-DS-practice/blob/main/block-3/HomeWork/Практика%20data_HR.ipynb)
 * Еще ондна работа по анализу данных [Проект по исследованию поездок на такси New-York](https://github.com/esta1d/SF-DS-practice/blob/main/PROJECT/PROJECT-5/Project-5._Ноутбук-шаблон.ipynb)
 
